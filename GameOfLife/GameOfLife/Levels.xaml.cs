@@ -23,5 +23,36 @@ namespace GameOfLife
         {
             InitializeComponent();
         }
+
+        private void E_Click(object sender, RoutedEventArgs e)
+        {
+           Easy game = new Easy();
+            game.Show();
+            Hide();
+        }
+
+        private void Z_Click(object sender, RoutedEventArgs e)
+        {
+            Medium game = new Medium();
+            game.Show();
+            Hide();
+        }
+
+        private void J_Click(object sender, RoutedEventArgs e)
+        {
+           Hard game = new Hard();
+            game.Show();
+            Hide();
+        }
+
+        private void U_Click(object sender, RoutedEventArgs e)
+        {
+           
+        }
+
+        private void C_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
     }
 }

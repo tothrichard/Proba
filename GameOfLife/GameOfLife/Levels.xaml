@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GameOfLife"
         mc:Ignorable="d"
-        Title="Levels" Height="450" Width="800">
+        Title="Levels" Height="50
+        0" Width="800">
     <Grid>
-        
+        <Button x:Name="e" Click="E_Click" DockPanel.Dock="Top" Width="100" Height="40" Margin="100,0,100,100">Level1</Button>
+        <Button x:Name="z" Click="Z_Click" DockPanel.Dock="Top" Width="100" Height="40" Margin="100,90,100,100">Level2</Button>
+        <Button x:Name="j" Click="J_Click" DockPanel.Dock="Top" Width="100" Height="40" Margin="100,180,100,100">Level3</Button>
+        <Button x:Name="u" Click="U_Click" DockPanel.Dock="Top" Width="100" Height="40" Margin="100,270,100,100">Level4</Button>
+        <Button x:Name="c" Click="C_Click" DockPanel.Dock="Top" Width="100" Height="40" Margin="100,350,100,60">Level5</Button>
     </Grid>
 </Window>

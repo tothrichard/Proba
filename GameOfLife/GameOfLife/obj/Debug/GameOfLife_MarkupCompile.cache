@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-H:\GameOfLife\GameOfLife\GameOfLife\obj\Debug\
+C:\Users\user\Downloads\Proba-master\Proba-master\GameOfLife\GameOfLife\obj\Debug\
 GameOfLife
 none
 false
 DEBUG;TRACE
-H:\GameOfLife\GameOfLife\GameOfLife\App.xaml
+C:\Users\user\Downloads\Proba-master\Proba-master\GameOfLife\GameOfLife\App.xaml
 9-1036156167
 
-14-1506519251
-13-1505183044
+131464666169
+131569487696
 Easy.xaml;Expert.xaml;Hard.xaml;Legend.xaml;Levels.xaml;MainWindow.xaml;Medium.xaml;Ultimate.xaml;Win.xaml;
 
-True
+False
 
