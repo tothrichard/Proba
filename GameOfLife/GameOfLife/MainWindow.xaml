@@ -6,7 +6,10 @@
         xmlns:local="clr-namespace:GameOfLife"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+    <DockPanel Background="Black">
+        <StackPanel DockPanel.Dock="Bottom" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button x:Name="startGame" Content="Játék" Margin="0,0,0,20" Width="150" Height="100" Click="StartGame_Click"/>
+            <Button x:Name="exit" Content="Kilépés" Width="150" Height="100" Click="Exit_Click"/>
+        </StackPanel>
+    </DockPanel>
 </Window>
