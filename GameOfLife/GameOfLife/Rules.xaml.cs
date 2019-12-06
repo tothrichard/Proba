@@ -15,27 +15,13 @@ using System.Windows.Shapes;
 namespace GameOfLife
 {
     /// <summary>
-    /// Interaction logic for Win.xaml
+    /// Interaction logic for Rules.xaml
     /// </summary>
-    public partial class Win : Window
+    public partial class Rules : Window
     {
-        public Win()
+        public Rules()
         {
             InitializeComponent();
-        }
-
-        private void Menu_Click(object sender, RoutedEventArgs e)
-        {
-            MainWindow menu = new MainWindow();
-            menu.Show();
-            Hide();
-        }
-
-        private void Palya_Click(object sender, RoutedEventArgs e)
-        {
-            Levels level = new Levels();
-            level.Show();
-            Hide();
         }
     }
 }

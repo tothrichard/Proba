@@ -24,35 +24,58 @@ namespace GameOfLife
             InitializeComponent();
         }
 
-        private void E_Click(object sender, RoutedEventArgs e)
+        private void Easy_Click(object sender, RoutedEventArgs e)
         {
-           Easy game = new Easy();
+            Easy game = new Easy();
             game.Show();
             Hide();
         }
 
-        private void Z_Click(object sender, RoutedEventArgs e)
+        private void Medium_Click(object sender, RoutedEventArgs e)
         {
             Medium game = new Medium();
             game.Show();
             Hide();
+
         }
 
-        private void J_Click(object sender, RoutedEventArgs e)
+        private void Hard_Click(object sender, RoutedEventArgs e)
         {
-           Hard game = new Hard();
+            Hard game = new Hard();
             game.Show();
             Hide();
+
         }
 
-        private void U_Click(object sender, RoutedEventArgs e)
+        private void Expert_Click(object sender, RoutedEventArgs e)
         {
-           
+            Expert game = new Expert();
+            game.Show();
+            Hide();
+
         }
 
-        private void C_Click(object sender, RoutedEventArgs e)
+        private void Legend_Click(object sender, RoutedEventArgs e)
         {
-            
+            Legend game = new Legend();
+            game.Show();
+            Hide();
+
+        }
+
+        private void Ultimate_Click(object sender, RoutedEventArgs e)
+        {
+            Ultimate game = new Ultimate();
+            game.Show();
+            Hide();
+
+        }
+
+        private void Back_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow menu = new MainWindow();
+            menu.Show();
+            Hide();
         }
     }
 }
