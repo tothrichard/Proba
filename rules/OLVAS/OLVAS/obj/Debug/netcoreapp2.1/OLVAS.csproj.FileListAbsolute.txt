@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\OLVAS\OLVAS\bin\Debug\netcoreapp2.1\OLVAS.deps.json
+C:\Users\user\source\repos\OLVAS\OLVAS\bin\Debug\netcoreapp2.1\OLVAS.runtimeconfig.json
+C:\Users\user\source\repos\OLVAS\OLVAS\bin\Debug\netcoreapp2.1\OLVAS.runtimeconfig.dev.json
+C:\Users\user\source\repos\OLVAS\OLVAS\bin\Debug\netcoreapp2.1\OLVAS.dll
+C:\Users\user\source\repos\OLVAS\OLVAS\bin\Debug\netcoreapp2.1\OLVAS.pdb
+C:\Users\user\source\repos\OLVAS\OLVAS\obj\Debug\netcoreapp2.1\OLVAS.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OLVAS\OLVAS\obj\Debug\netcoreapp2.1\OLVAS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OLVAS\OLVAS\obj\Debug\netcoreapp2.1\OLVAS.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OLVAS\OLVAS\obj\Debug\netcoreapp2.1\OLVAS.AssemblyInfo.cs
+C:\Users\user\source\repos\OLVAS\OLVAS\obj\Debug\netcoreapp2.1\OLVAS.dll
+C:\Users\user\source\repos\OLVAS\OLVAS\obj\Debug\netcoreapp2.1\OLVAS.pdb

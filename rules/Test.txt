@@ -1,0 +1,53 @@
+'GameOfLife.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\user\Desktop\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe'. Symbols loaded.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\PrivateAssemblies\Runtime\Microsoft.VisualStudio.Debugger.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Step into: Stepping over non-user code 'GameOfLife.App..ctor'
+Step into: Stepping over non-user code 'GameOfLife.App.InitializeComponent'
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_hu_b77a5c561934e089\mscorlib.resources.dll'. Module was built without symbols.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework.Aero2\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.Aero2.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework-SystemXml\v4.0_4.0.0.0__b77a5c561934e089\PresentationFramework-SystemXml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationCore.resources\v4.0_4.0.0.0_hu_31bf3856ad364e35\PresentationCore.resources.dll'. Module was built without symbols.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Users\user\AppData\Local\Temp\VisualStudio.XamlDiagnostics.27764\Microsoft.VisualStudio.DesignTools.WpfTap.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Internals\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Internals.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\UIAutomationTypes\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization.resources\v4.0_4.0.0.0_hu_b77a5c561934e089\System.Runtime.Serialization.resources.dll'. Module was built without symbols.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\UIAutomationProvider\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationProvider.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GameOfLife.exe' (CLR v4.0.30319: GameOfLife.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework.resources\v4.0_4.0.0.0_hu_31bf3856ad364e35\PresentationFramework.resources.dll'. Module was built without symbols.
+The program '[27764] GameOfLife.exe: Program Trace' has exited with code 0 (0x0).
+The program '[27764] GameOfLife.exe' has exited with code 0 (0x0).
+
+
+
+[2019. 12. 08. 17:27:45 Warning] Build failed or it was cancelled.
+[2019. 12. 08. 17:28:40 Informational] ------ Discover test started ------
+[2019. 12. 08. 17:28:43 Warning] Test run will use DLL(s) built for framework .NETFramework,Version=v4.5 and platform X86. Following DLL(s) do not match framework/platform settings.
+GameOfLife.exe is built for Framework 4.7.2 and Platform AnyCPU.
+Go to http://go.microsoft.com/fwlink/?LinkID=236877&clcid=0x409 for more details on managing these settings.
+
+[2019. 12. 08. 17:28:45 Informational] ========== Discover test finished: 0 found (0:00:04,3360003) ==========
+[2019. 12. 08. 17:28:45 Informational] ------ Run test started ------
+[2019. 12. 08. 17:28:45 Warning] Test run will use DLL(s) built for framework .NETFramework,Version=v4.5 and platform X86. Following DLL(s) do not match framework/platform settings.
+GameOfLife.exe is built for Framework 4.7.2 and Platform AnyCPU.
+Go to http://go.microsoft.com/fwlink/?LinkID=236877&clcid=0x409 for more details on managing these settings.
+
+[2019. 12. 08. 17:28:46 Informational] ========== Run test finished: 0 run (0:00:01,5589983) ==========
+[2019. 12. 08. 17:32:29 Informational] ------ Run test started ------
+[2019. 12. 08. 17:32:29 Warning] Test run will use DLL(s) built for framework .NETFramework,Version=v4.5 and platform X86. Following DLL(s) do not match framework/platform settings.
+GameOfLife.exe is built for Framework 4.7.2 and Platform AnyCPU.
+Go to http://go.microsoft.com/fwlink/?LinkID=236877&clcid=0x409 for more details on managing these settings.
+
+[2019. 12. 08. 17:32:37 Informational] ========== Run test finished: 0 run (0:00:07,6199798) ==========
+[2019. 12. 08. 17:35:15 Informational] ------ Run test started ------
+[2019. 12. 08. 17:35:15 Warning] Test run will use DLL(s) built for framework .NETFramework,Version=v4.5 and platform X86. Following DLL(s) do not match framework/platform settings.
+GameOfLife.exe is built for Framework 4.7.2 and Platform AnyCPU.
+Go to http://go.microsoft.com/fwlink/?LinkID=236877&clcid=0x409 for more details on managing these settings.
